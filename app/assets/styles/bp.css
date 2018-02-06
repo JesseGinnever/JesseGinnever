@@ -1,0 +1,55 @@
+.successCheck {
+	color: #159b4b;
+}
+
+.failedCross {
+	color: #a50808;
+}
+
+md-toast.md-error-notification-theme div.md-toast-content{
+	color: white !important;
+	font-weight: bold;
+	background-color: #a50808 !important;
+}
+
+md-toast.md-success-notification-theme div.md-toast-content{
+	color: white !important;
+	font-weight: bold;
+	background-color: #159b4b !important;
+}
+
+.imageCursor {
+	cursor: pointer;
+}
+
+.customCard .card-media {
+	background-color: #999999; 
+}
+
+.iconAccentShade {
+	color: rgb(69,90,100);
+}
+
+.customTitle {
+	text-align: center
+}
+
+.md-sidenav-left {
+    width: 85px !important;
+    position: absolute;
+}
+
+.main-panel {
+    margin-left: 85px;
+}
+
+.md-tooltip {
+    padding: 15px;
+    font-size: 2em;
+    text-align: center;
+    background-color: rgb(2,119,189);
+}
+
+.layout-fill {
+    width: auto;
+}
